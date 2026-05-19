@@ -20,16 +20,3 @@ recordings/
 build/
 dist/
 
-venv/
-__pycache__/
-*.pyc
-.env
-.streamlit/
-
-*.h5
-*.pt
-*.pth
-*.onnx
-
-build/
-dist/
